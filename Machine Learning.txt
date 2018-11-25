@@ -1,0 +1,33 @@
+What is Machine Learning?
+
+Machine learning (ML) is a category of algorithm that allows software applications to become more accurate in predicting outcomes without being explicitly programmed. The basic premise of machine learning is to build algorithms that can receive input data and use statistical analysis to predict an output while updating outputs as new data becomes available. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.
+
+The process of learning begins with observations or data, such as examples, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide. The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly.
+
+Some machine learning methods
+Machine learning algorithms are often categorized as supervised or unsupervised.
+
+1. Supervised machine learning algorithms can apply what has been learned in the past to new data using labeled examples to predict future events. Starting from the analysis of a known training dataset, the learning algorithm produces an inferred function to make predictions about the output values. The system is able to provide targets for any new input after sufficient training. The learning algorithm can also compare its output with the correct, intended output and find errors in order to modify the model accordingly.
+
+The aim of supervised, machine learning is to build a model that makes predictions based on evidence in the presence of uncertainty. As adaptive algorithms identify patterns in data, a computer "learns" from the observations. When exposed to more observations, the computer improves its predictive performance.
+
+Specifically, a supervised learning algorithm takes a known set of input data and known responses to the data (output), and trains a model to generate reasonable predictions for the response to new data.
+
+Supervised learning splits into two broad categories: classification and regression.
+
+In classification, the goal is to assign a class (or label) from a finite set of classes to an observation. That is, responses are categorical variables.
+
+In regression, the goal is to predict a continuous measurement for an observation. That is, the responses variables are real numbers.
+
+
+2. Unsupervised machine learning algorithms infer patterns from a dataset without reference to known, or labeled, outcomes. Unlike supervised machine learning, unsupervised machine learning methods cannot be directly applied to a regression or a classification problem because you have no idea what the values for the output data might be, making it impossible for you to train the algorithm the way you normally would. Unsupervised learning can instead be used for discovering the underlying structure of the data.
+
+Some applications of unsupervised machine learning techniques include:
+
+Clustering allows you to automatically split the dataset into groups according to similarity.
+
+Anomaly detection can automatically discover unusual data points in your dataset.
+
+Association mining identifies sets of items that frequently occur together in your dataset.
+
+

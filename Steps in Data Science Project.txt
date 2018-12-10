@@ -1,0 +1,34 @@
+7 Fundamental Steps to Complete a Data Project
+
+STEP 1: UNDERSTAND THE BUSINESS
+Understanding the business is the key to assuring the success of data project. To motivate the different actors necessary to getting project from design to production, project must be the answer to a clear business need.
+
+STEP 2: GET DATA
+Once goal figured out, it’s time to start looking for data. Mixing and merging data from as many data sources as possible is what makes a data project great, so look as far as possible.
+
+STEP 3: EXPLORE AND CLEAN DATA
+Once gotten data, it’s time to get to work on it! Start digging to see what got and how can link everything together to answer original goal. Start taking notes on first analyses, and ask questions to business people to understand what all variables mean! Because not everyone will get is a product category referring to something awesome.
+
+Once understand data, It’s time to look at every one of your columns to make sure your data is homogeneous and clean.
+
+STEP 4: ENRICH DATASET
+Manipulate it to get the most value out of it. This is the time to join all your different sources, and group logs, to get your data down to the essential features.
+
+Then start manipulating the data to extract lots of valuable features.
+
+
+STEP 5: BUILD VISUALISATIONS
+This is a good time to start exploring data by building graphs. When dealing with large volumes of data, they’re the best way to explore and communicate findings.
+
+We’ll find lots of tools available that make this step to prepare and to receive. The tricky part is always to be able to dig into graphs to answer any question somebody would have about an insight.
+
+STEP 6: GET PREDICTIVE
+For data scientists this is when the job gets really interesting. Machine learning algorithms can help you go a step further into getting insights and predicting future trends. 
+
+By working with clustering algorithms, one can build models to uncover trends in the data that were not distinguishable in graphs and stats. These create groups of similar events (or clusters) and more or less explicitly express what feature is decisive in these results.
+
+More advanced data scientists can then go even further and predict future trends with supervised algorithms. By analyzing past data, they find features that have impacted past trends, and use them to build predictions. More than just gaining knowledge, this final step can lead to building whole new products and processes. To get these in production though, will need the intervention of data scientists and engineers, but it’s important to understand the process so all the parties involved (business users and analysts as well), will be able to understand what comes out in the end.
+
+
+STEP 7: ITERATE
+The main goal in any business project is to prove it’s effectiveness as fast as possible to justify. Data projects are the same. By gaining time on data cleaning and enriching, one can go to the end of the project fast and get first result. These first insights will be a great start to uncover more necessary cleaning, to develop more features in order to continuously improve results and model outputs.

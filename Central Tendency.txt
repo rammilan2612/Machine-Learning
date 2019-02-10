@@ -1,0 +1,28 @@
+
+A measure of central tendency is a summary statistic that represents the center point or typical value of a dataset. These measures indicate where most values in a distribution fall and are also referred to as the central location of a distribution. You can think of it as the tendency of data to cluster around a middle value. In statistics, the three most common measures of central tendency are the mean, median, and mode. Each of these measures calculates the location of the central point using a different method.
+
+Choosing the best measure of central tendency depends on the type of data you have. 
+
+Mean
+The mean is the arithmetic average, and it is probably the measure of central tendency that you are most familiar. Calculating the mean is very simple. You just add up all of the values and divide by the number of observations in your dataset.
+
+(x_1+x_2+..... +x_n)/n
+The calculation of the mean incorporates all values in the data. If you change any value, the mean changes. However, the mean doesn’t always locate the center of the data accurately.
+
+In a symmetric distribution, the mean locates the center accurately.
+
+However, in a skewed distribution, the mean can miss the mark. In the graph above, it is starting to fall outside the central area. This problem occurs because outliers have a substantial impact on the mean. Extreme values in an extended tail pull the mean away from the center. As the distribution becomes more skewed, the mean is drawn further away from the center. Consequently, it’s best to use the mean as a measure of the central tendency when you have a symmetric distribution.
+
+When to use the mean: Symmetric distribution, Continuous data
+
+Median
+The median is the middle value. It is the value that splits the dataset in half. To find the median, order your data from smallest to largest, and then find the data point that has an equal amount of values above it and below it. The method for locating the median varies slightly depending on whether your dataset has an even or odd number of values.
+
+Outliers and skewed data have a smaller effect on the median. When you have a skewed distribution, the median is a better measure of central tendency than the mean.
+
+When to use the median: Skewed distribution
+
+Mode
+The mode is the value that occurs the most frequently in your data set. On a bar chart, the mode is the highest bar. If the data have multiple values that are tied for occurring the most frequently, you have a multimodal distribution. If no value repeats, the data do not have a mode.
+
+Typically, you use the mode with categorical, ordinal, and discrete data. In fact, the mode is the only measure of central tendency that you can use with categorical data—such as the most preferred flavor of ice cream. However, with categorical data, there isn’t a central value because you can’t order the groups. With ordinal and discrete data, the mode can be a value that is not in the center. Again, the mode represents the most common value.

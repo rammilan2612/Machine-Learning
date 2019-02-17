@@ -1,0 +1,13 @@
+In simple words, data mining is defined as a process used to extract usable data from a larger set of any raw data. It implies analysing data patterns in large batches of data using one or more software. Data mining has applications in multiple fields, like science and research. As an application of data mining, businesses can learn more about their customers and develop more effective strategies related to various business functions and in turn leverage resources in a more optimal and insightful manner. This helps businesses be closer to their objective and make better decisions. Data mining involves effective data collection and warehousing as well as computer processing. For segmenting the data and evaluating the probability of future events, data mining uses sophisticated mathematical algorithms. Data mining is also known as Knowledge Discovery in Data (KDD). 
+
+Description: Key features of data mining: 
+
+• Automatic pattern predictions based on trend and behaviour analysis. 
+
+• Prediction based on likely outcomes. 
+
+• Creation of decision-oriented information. 
+
+• Focus on large data sets and databases for analysis. 
+
+• Clustering based on finding and visually documented groups of facts not previously known.

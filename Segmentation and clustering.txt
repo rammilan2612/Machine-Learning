@@ -1,0 +1,5 @@
+
+
+Segmenting is the process of putting customers into groups based on similarities,
+and clustering is the process of finding similarities in customers so that they can be grouped, 
+and therefore segmented. They seem quite similar, but they are not quite the same.

@@ -3,3 +3,30 @@
 Segmenting is the process of putting customers into groups based on similarities,
 and clustering is the process of finding similarities in customers so that they can be grouped, 
 and therefore segmented. They seem quite similar, but they are not quite the same.
+
+
+Clustering :
+
+“the process of organizing objects into groups whose members are similar in some way” (here)
+“a number of different algorithms and methods for grouping objects of similar kind into respective categories” (here)
+“a way to form ‘natural groupings’ or clusters of patterns” (here)
+“the assignment of a set of observations into subsets (called clusters) so that observations in the same cluster are similar in some sense” 
+
+Segmentation
+
+“Customer segmentation is the practice of dividing a customer base into groups of individuals that are similar in specific ways relevant to marketing, such as age, gender, interests, spending habits, and so on” (here)
+“A marketing technique that targets a group of customers with specific characteristics” (here)
+
+
+Data Segmentation:-
+  Data Segmentation is the process of taking the data you hold and dividing it up and grouping similar data together based on the chosen parameters so that you can use it more efficiently within marketing and operations. Examples of Data Segmentation could be:
+
+Gender
+Customers vs. Prospects
+Industry
+
+The key benefits of Data Segmentation are:
+
+1. You will be able create messaging that is tailored and sophisticated to suit your target market – appealing to their needs better.
+2. It allows you to easier conduct an analysis of your data stored in your database, helping to identify potential opportunities and challenges based within it.
+3. Enables you to mass-personalise your marketing communications, reducing costs.
